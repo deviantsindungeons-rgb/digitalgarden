@@ -15,6 +15,7 @@ When you spend time investigating a person, place, or thing and [[Moves/Basic Mo
 - While you're in pursuit of the target and you make a [[System Mechanics/Move\|combat or archetype move]] that lets you make a choice, choose one more option.
 - When you [[System Mechanics/Combat\|exchange damage]] with the target (or in an attempt to get to the target), choose a weapon property and assign it to your weapon for that exchange.
 - [[Moves/Basic Moves/Pray\|Pray]] without making a sacrifice and ask about the target.
+
 When you [[Moves/Core Moves/End a Session\|End a Session]], also ask if you have any active Focuses. You can have a number of active Focuses at a time equal to your [[System Mechanics/Attributes/Ether\|Ether]].
 
 # Divine Moves

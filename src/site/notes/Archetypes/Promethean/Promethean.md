@@ -14,6 +14,7 @@
 Only you have an understanding of your true potential, represented by your Aura. You start with a maximum amount of Aura equal to your [[System Mechanics/Attributes/Ichor\|Ichor]] (min. 1). When you gain an advanced move in this archetype, increase your maximum amount by one. You can spend Aura to: 
 - Gain [[System Mechanics/Rolling Dice, Advantage, and Disadvantage\|advantage]] on a roll.
 - When you have [[System Mechanics/Rolling Dice, Advantage, and Disadvantage\|advantage or disadvantage]] on a roll, re-roll a single die.
+
 When you farm Aura, add one to your pool. If your pool is full, clear a [[System Mechanics/Condition\|condition]] instead. You farm Aura when:
 - You roll a 12+ with [[System Mechanics/Attributes/Ichor\|Ichor]] or on a [[System Mechanics/Move\|combat move]].
 - You [[Moves/Basic Moves/Forge a Bond\|Forge a Bond]].
