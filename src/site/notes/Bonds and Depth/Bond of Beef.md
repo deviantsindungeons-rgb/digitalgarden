@@ -12,6 +12,7 @@ After you argue with your bond-mate, answer the following yes-no questions, then
 - Did you put most of the fault or blame on them?
 - Do you feel that you won the argument?
 - Are you currently safe?
+
 On any result you clear a [[System Mechanics/Condition\|condition]]. On a 10+, you clear another condition or gain one [[Bonds and Depth/Relationships, Depth, and Bonds\|depth]] with them, your choice. On a 6- they mark a condition or lose one depth with you, their choice.
 
 ### Advanced Move: Maybe It's Me

@@ -11,6 +11,7 @@ When you learn of an obstacle or threat ahead, mark [[System Mechanics/Condition
 When you show someone else the ropes in a skill that you have expertise in, roll + [[System Mechanics/Attributes/Humor\|Humor]]. On a 7+, they gain expertise in that skill for the rest of the [[System Mechanics/Scene\|scene]] (and the scene after if you split up) and choose one.
 - When you [[Moves/Basic Moves/Defy Danger\|Defy Danger]] using your expertise and roll a 7+, make one fewer choice.
 - When you [[Moves/Basic Moves/Assess\|Assess]] by using your expertise and roll a 7+, ask one more question.
+
 On a 6-, describe how your attempt fails. Gain an [[System Mechanics/XP\|XP]].
 
 ### Advanced Move: Heads Up
