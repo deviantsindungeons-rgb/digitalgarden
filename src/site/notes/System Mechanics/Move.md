@@ -20,7 +20,7 @@ A move is a narrative tool for the players to change the current situation. When
 - [[Moves/Basic Moves/Support\|Support]]
 - [[Moves/Basic Moves/Unleash Your Powers\|Unleash Your Powers]]
 
-# Battle Moves
+# Combat Moves
 - [[Moves/Combat Moves/All Out Attack\|All Out Attack]]
 - [[Moves/Combat Moves/Distract an Enemy\|Distract an Enemy]]
 - [[Moves/Combat Moves/Enter Battle\|Enter Battle]]
