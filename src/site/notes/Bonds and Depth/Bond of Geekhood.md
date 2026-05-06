@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/bonds-and-depth/bond-of-geekhood/","dg-note-properties":{}}
 ---
 
-*You share a passion for a topic, hobby, craft, or similar, and spend most of your time together discussing or working on it. Decide together what interest you share.
+*You share a passion for a topic, hobby, craft, or similar, and spend most of your time together discussing or working on it. Decide together what interest you share.*
 
 ### Starting Move: Great Minds
 When you [[Moves/Basic Moves/Provide Aid\|Provide Aid]] to your bond-mate in relation to your interest, you can also choose to substitute their [[System Mechanics/Attributes/Attributes\|attribute]] with yours for the roll.
