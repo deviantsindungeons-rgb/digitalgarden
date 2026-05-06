@@ -15,6 +15,7 @@ You have a particular talent that you have carefully cultivated or trained. Desc
 - On a 10+, gain three Inspiration. 
 - On a 7-9, gain two Inspiration. 
 - On a 6-, gain one Inspiration - the display might look good, but you're not satisfied. Mark a [[System Mechanics/Condition\|condition]].
+
 You can use Inspiration for any of the following (a PC can only benefit from one Inspiration per round):
 - Reinforce - unlock a [[System Mechanics/Condition\|condition]] that a PC has.
 - Encourage - grant a PC an extra action [[System Mechanics/Combat\|in a fight]].
