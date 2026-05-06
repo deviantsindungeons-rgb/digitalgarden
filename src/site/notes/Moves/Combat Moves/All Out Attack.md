@@ -6,4 +6,5 @@ When you leverage an edge or vulnerability to directly engage and attack an enem
 - Make it hurt and deal 1 extra damage.
 - Mitigate their blow, taking 1 less damage.
 - Let off some steam and clear a [[System Mechanics/Condition\|condition]].
+
 On a 6-, they deal 2 extra damage to you. Gain an [[System Mechanics/XP\|XP]].

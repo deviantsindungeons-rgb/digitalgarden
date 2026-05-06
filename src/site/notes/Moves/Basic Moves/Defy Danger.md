@@ -12,4 +12,5 @@ On a 10+, you get it done, but choose one. On a 7-9, you get it done but choose 
 - It impacts you. Mark a [[System Mechanics/Condition\|condition]] or lose a [[System Mechanics/Health\|health]].
 - Doing so escalates the situation or draws unwanted attention. The GM explains how after you choose this option.
 - You have to sacrifice something to do it - name what it is. The GM might demand more.
+
 On a 6-, describe how it goes wrong. Gain an [[System Mechanics/XP\|XP]].
