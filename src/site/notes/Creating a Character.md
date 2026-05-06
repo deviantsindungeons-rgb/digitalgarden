@@ -14,7 +14,7 @@ Determine your starting equipment. An option can be chosen more than once. Roll 
 
 Determine your starting gear. An option can only be chosen once. Roll + [[System Mechanics/Attributes/Ether\|Ether]]...
 - On a 10+, choose three:
-	- A unit of gear.
+	- A unit of [[Items/Mundane Items\|gear]].
 	- A unit of supplies.
 	- A smartphone.
 	- Keys to a run-down vehicle of your choice.
