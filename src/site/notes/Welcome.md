@@ -10,7 +10,7 @@ Half-blood is a tabletop roleplaying game about the children of the Greek and Ro
 
 You'll [[Creating a Character\|create a character]] and gain [[System Mechanics/XP\|XP]] as you play them, utilizing your [[System Mechanics/Attributes/Attributes\|Attributes]] and [[System Mechanics/Move\|Moves]]. Whether you're swimming through [[System Mechanics/Scene\|Scenes]], fighting for your life in [[System Mechanics/Combat\|Combat]], or embracing your [[System Mechanics/Archetype\|Archetype]], every [[System Mechanics/Rolling Dice, Advantage, and Disadvantage\|roll]] carries the weight of your choices.
 
-You'll struggle through [[System Mechanics/Condition\|Conditions]] and do your best not to lose all your [[System Mechanics/Health\|Health]].  Forge [[Bonds and Depth/Relationships, Depth, and Bonds\|Bonds]] that run deeper than friendship and arm yourself with [[Items/Weapons\|Weapons]], [[Items/Armour\|Armour]], and [[Items/Magic Items\|Magic Items]].
+You'll struggle through [[System Mechanics/Condition\|Conditions]] and do your best not to lose all your [[System Mechanics/Health\|Health]].  Forge [[Bonds and Depth/Relationships, Depth, and Bonds\|Bonds]] that run deeper than friendship and arm yourself with [[Items/Weapons\|Weapons]], [[Items/Armour\|Armour]], [[Items/Magic Items\|Magic Items]], and a few [[Items/Mundane Items\|Mundane Items]] too.
 
 # Core Moves
 - [[Moves/Core Moves/End a Session\|End a Session]]
