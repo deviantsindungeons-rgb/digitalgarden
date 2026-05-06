@@ -13,7 +13,7 @@ The premier magic warding tool. It has one use which can be used to automaticall
 ### Curse Tablet
 A thin sheet of lead with some runes carved into it, they are often left behind by magical users and can have very potent effects. Its exact number of uses and effects vary. With some downtime, you can figure out its exact effects and how to modify them to your liking.
 
-### Satyr Instruments
+### Satyr Instrument
 Usually woodwinds, these are instruments with potent natural magic power. It has three uses, allowing you to conjure minor magical effects with natural resources nearby. For example, you could turn tree roots into a gnarled patch of terrain that is difficult to cross, or form a straitjacket out of a set of grapevines. 
 
 ### Greek Fire
