@@ -8,9 +8,9 @@ If you don't know anything about your divine heritage, you might be close to you
 
 Half-blood is a tabletop roleplaying game about the children of the Greek and Roman gods, surviving in a world that barely notices them. As a half-blood, you'll uncover your [[System Mechanics/Divine Heritage\|Divine Heritage]], struggle against your [[System Mechanics/Fatal Flaw\|Fatal Flaw]], and take on dangerous [[System Mechanics/Quest\|Quests]].
 
-You'll [[Creating a Character\|create a character]] and gain [[System Mechanics/XP\|XP]] as you play them, utilizing your [[System Mechanics/Attributes/Attributes\|Attributes]] and [[System Mechanics/Move\|Moves]]. Whether you're swimming through [[System Mechanics/Scene\|Scenes]], fighting for your life in [[System Mechanics/Combat\|Combat]], or simply trying to hold it together, every roll carries the weight of your choices.
+You'll [[Creating a Character\|create a character]] and gain [[System Mechanics/XP\|XP]] as you play them, utilizing your [[System Mechanics/Attributes/Attributes\|Attributes]] and [[System Mechanics/Move\|Moves]]. Whether you're swimming through [[System Mechanics/Scene\|Scenes]], fighting for your life in [[System Mechanics/Combat\|Combat]], or embracing your [[System Mechanics/Archetype\|Archetype]], every [[System Mechanics/Rolling Dice, Advantage, and Disadvantage\|roll]] carries the weight of your choices.
 
-You'll battle [[System Mechanics/Condition\|Conditions]] and push yourself to the brink until you [[Moves/Core Moves/Reach Your Limit\|Reach Your Limit]] or even lose [[System Mechanics/Health\|Health]] until you [[Moves/Core Moves/Face Death\|Face Death]]. Forge [[Bonds and Depth/Relationships, Depth, and Bonds\|Bonds]] that run deeper than friendship and arm yourself with [[Items/Weapons\|Weapons]], [[Items/Armour\|Armour]], and [[Items/Magic Items\|Magic Items]].
+You'll struggle through [[System Mechanics/Condition\|Conditions]] and do your best not to lose all your [[System Mechanics/Health\|Health]].  Forge [[Bonds and Depth/Relationships, Depth, and Bonds\|Bonds]] that run deeper than friendship and arm yourself with [[Items/Weapons\|Weapons]], [[Items/Armour\|Armour]], and [[Items/Magic Items\|Magic Items]].
 
 # Core Moves
 - [[Moves/Core Moves/End a Session\|End a Session]]
