@@ -12,11 +12,6 @@ You'll [[Creating a Character\|create a character]] and gain [[System Mechanics/
 
 You'll struggle through [[System Mechanics/Condition\|Conditions]] and do your best not to lose all your [[System Mechanics/Health\|Health]].  Forge [[Bonds and Depth/Relationships, Depth, and Bonds\|Bonds]] that run deeper than friendship and arm yourself with [[Items/Weapons\|Weapons]], [[Items/Armour\|Armour]], [[Items/Magic Items\|Magic Items]], and a few [[Items/Mundane Items\|Mundane Items]] too.
 
-# Core Moves
-- [[Moves/Core Moves/End a Session\|End a Session]]
-- [[Moves/Core Moves/Face Death\|Face Death]]
-- [[Moves/Core Moves/Reach Your Limit\|Reach Your Limit]]
-
 # Basic Moves
 - [[Moves/Basic Moves/Assess\|Assess]]
 - [[Moves/Basic Moves/Defy Danger\|Defy Danger]]
@@ -35,8 +30,13 @@ You'll struggle through [[System Mechanics/Condition\|Conditions]] and do your b
 - [[Moves/Combat Moves/Secure an Edge\|Secure an Edge]]
 - [[Moves/Combat Moves/Take Control\|Take Control]]
 
+# Core Moves
+- [[Moves/Core Moves/End a Session\|End a Session]]
+- [[Moves/Core Moves/Face Death\|Face Death]]
+- [[Moves/Core Moves/Reach Your Limit\|Reach Your Limit]]
+
 # Archetypes
-If you're a cerebral type thats struggling with an emotional dichotomy, become an [[Archetypes/Apollonian/Apollonian\|Apollonian]]. Choose from the following paths:
+If you're a cerebral type that's struggling with an emotional dichotomy, become an [[Archetypes/Apollonian/Apollonian\|Apollonian]]. Choose from the following paths:
 - [[Archetypes/Apollonian/Mechanist\|Mechanist]], the one that always knows what's going on.
 - [[Archetypes/Apollonian/Meditative\|Meditative]], the one that is on a spiritual journey.
 - [[Archetypes/Apollonian/Meticulous\|Meticulous]], the one that always thinks twice.
