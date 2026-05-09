@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/creating-a-character/","dg-note-properties":{}}
 ---
 
-When you create a character, write a backstory and choose a [[System Mechanics/Divine Heritage\|Divine Heritage]], [[System Mechanics/Fatal Flaw\|Fatal Flaw]], and an archetype. Choose an attribute spread from that archetype and gain its starting move. Set your [[System Mechanics/XP\|XP]] and level to 0. Write down any PCs that you may know through your backstory and set your [[Bonds and Depth/Relationships, Depth, and Bonds\|depth]] with them to 0. If your backstory is tightly interwoven with another PC, set it at 1.
+When you create a character, write a backstory and choose a [[System Mechanics/Divine Heritage\|Divine Heritage]], [[System Mechanics/Fatal Flaw\|Fatal Flaw]], and an [[System Mechanics/Archetype\|Archetype]]. Choose an attribute spread from that archetype and gain its starting move. Set your [[System Mechanics/XP\|XP]] and level to 0. Write down any PCs that you may know through your backstory and set your [[Bonds and Depth/Relationships, Depth, and Bonds\|depth]] with them to 0. If your backstory is tightly interwoven with another PC, set it at 1.
 
 Determine your starting equipment. An option can be chosen more than once. Roll + [[System Mechanics/Attributes/Humor\|Humor]]...
 - On a 7+, choose two:
@@ -15,7 +15,7 @@ Determine your starting equipment. An option can be chosen more than once. Roll 
 Determine your starting gear. An option can only be chosen once. Roll + [[System Mechanics/Attributes/Ether\|Ether]]...
 - On a 10+, choose three:
 	- A unit of [[Items/Mundane Items\|gear]].
-	- A unit of supplies.
+	- A unit of [[Items/Mundane Items\|supplies]].
 	- A smartphone.
 	- Keys to a run-down vehicle of your choice.
 	- Enough cash to get around.

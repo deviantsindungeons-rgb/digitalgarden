@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-The current year is 2026. You're somewhere in North America - probably on the run. Things haven't been easy for you. Strange occurrences that make your life worse follow you around like a rainy cloud, life itself beating down on you until you give up. Most people don't even perceive the things that happen around you, making you feel all the more isolated.
+You're somewhere in North America - probably on the run. Things haven't been easy for you. Strange occurrences that make your life worse follow you around like a rainy cloud in a cartoon. Most people don't even perceive the things that happen around you, making you feel all the more isolated.
 
-If you don't know anything about your divine heritage, you might be close to your breaking point. You're looking for something, anything, that can help you figure out how to take control of your life. That's when you hear about a place on Long Island called Camp Half-Blood…
+If you don't know anything about your origins, you might be close to your breaking point. You're looking for something, anything, that can help you figure out how to take control of your life. That's when you hear about a place on Long Island called Camp Half-Blood…
 
-Half-blood is a tabletop roleplaying game about the children of the Greek and Roman gods, surviving in a world that barely notices them. As a half-blood, you'll uncover your [[System Mechanics/Divine Heritage\|Divine Heritage]], struggle against your [[System Mechanics/Fatal Flaw\|Fatal Flaw]], and take on dangerous [[System Mechanics/Quest\|Quests]].
+Halfblood is a tabletop roleplaying game about the children of the Greek and Roman gods and their journeys to becoming heroes. As a halfblood, you'll uncover your [[System Mechanics/Divine Heritage\|Divine Heritage]], struggle against your [[System Mechanics/Fatal Flaw\|Fatal Flaw]], and take on dangerous [[System Mechanics/Quest\|Quests]].
 
 You'll [[Creating a Character\|create a character]] and gain [[System Mechanics/XP\|XP]] as you play them, utilizing your [[System Mechanics/Attributes/Attributes\|Attributes]] and [[System Mechanics/Move\|Moves]]. Whether you're swimming through [[System Mechanics/Scene\|Scenes]], fighting for your life in [[System Mechanics/Combat\|Combat]], or embracing your [[System Mechanics/Archetype\|Archetype]], every [[System Mechanics/Rolling Dice, Advantage, and Disadvantage\|roll]] carries the weight of your choices.
 
